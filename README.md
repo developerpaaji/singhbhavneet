@@ -1,6 +1,5 @@
 ### Hello World 👋, I'm Bhavneet Singh!
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=singhbhavneet.singhbhavneet)
 [![GitHub followers](https://img.shields.io/github/followers/singhbhavneet.svg?style=social&label=Follow)](https://github.com/singhbhavneet?tab=followers)
 
 </br>
